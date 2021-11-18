@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SmauricioP
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning everything I can
+- 🌱 I’m currently learning Python
 
 <!---
 SmauricioP/SmauricioP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
